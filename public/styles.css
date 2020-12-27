@@ -64,3 +64,9 @@ body {
   margin: 20px 0;
   color: #1a7e76;
 }
+
+.info-avatar {
+  margin: 10px 0;
+  color: black;
+  font-weight: bold;
+}
